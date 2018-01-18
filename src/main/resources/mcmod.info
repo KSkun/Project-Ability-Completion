@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pacmod",
+  "name": "Project Ability Completion Mod",
+  "description": "An addon to AcademyCraft, adding more abilities.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KSkun"],
+  "credits": "All the users including you.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
